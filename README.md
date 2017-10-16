@@ -1,4 +1,5 @@
 # HTTP API 设计指南
+>fork from https://github.com/cocoajin/http-api-design-ZH_CN
 > 翻译自 `HTTP API Design Guide` [https://github.com/interagent/http-api-design](https://github.com/interagent/http-api-design)
 
 ## 前言
